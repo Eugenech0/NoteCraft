@@ -1,0 +1,7 @@
+{
+  "name": "NoteCraft",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
